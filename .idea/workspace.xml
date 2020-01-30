@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="50defecf-5db5-4f24-b363-02c7b6aeae39" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WhVp7xq5Xyj3vxZQJS1PaFNQjL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Drivers" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Drivers" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Gradle.LoginPageTest">
+    <configuration name="LoginPageTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.bridgelabz.scripts.LoginPageTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="LoginPageTest.loginTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.bridgelabz.scripts.LoginPageTest.loginTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.LoginPageTest" />
+        <item itemvalue="Gradle.LoginPageTest.loginTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="50defecf-5db5-4f24-b363-02c7b6aeae39" name="Default Changelist" comment="" />
+      <created>1579601993414</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579601993414</updated>
+      <workItem from="1579601999606" duration="3863000" />
+      <workItem from="1579608611364" duration="1613000" />
+      <workItem from="1579673625909" duration="4936000" />
+      <workItem from="1579758182913" duration="8110000" />
+      <workItem from="1579773066441" duration="4333000" />
+      <workItem from="1579837475510" duration="748000" />
+      <workItem from="1580020180423" duration="647000" />
+      <workItem from="1580126138283" duration="2054000" />
+      <workItem from="1580129021632" duration="268000" />
+      <workItem from="1580183979160" duration="2605000" />
+      <workItem from="1580277415706" duration="772000" />
+      <workItem from="1580363378902" duration="1389000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="353" y="109" width="544" height="575" key="#com.intellij.ide.util.MemberChooser" timestamp="1579762216119">
+      <screen x="67" y="27" width="957" height="741" />
+    </state>
+    <state x="353" y="109" width="544" height="575" key="#com.intellij.ide.util.MemberChooser/67.27.957.741@67.27.957.741" timestamp="1579762216119" />
+    <state x="271" y="27" width="538" height="741" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1579762251189">
+      <screen x="67" y="27" width="957" height="741" />
+    </state>
+    <state x="271" y="27" width="538" height="741" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/67.27.957.741@67.27.957.741" timestamp="1579762251189" />
+    <state width="911" height="2" key="GridCell.Tab.0.bottom" timestamp="1579777794465">
+      <screen x="67" y="27" width="957" height="741" />
+    </state>
+    <state width="911" height="2" key="GridCell.Tab.0.bottom/67.27.957.741@67.27.957.741" timestamp="1579777794465" />
+    <state width="911" height="2" key="GridCell.Tab.0.center" timestamp="1579777794465">
+      <screen x="67" y="27" width="957" height="741" />
+    </state>
+    <state width="911" height="2" key="GridCell.Tab.0.center/67.27.957.741@67.27.957.741" timestamp="1579777794465" />
+    <state width="911" height="2" key="GridCell.Tab.0.left" timestamp="1579777794465">
+      <screen x="67" y="27" width="957" height="741" />
+    </state>
+    <state width="911" height="2" key="GridCell.Tab.0.left/67.27.957.741@67.27.957.741" timestamp="1579777794465" />
+    <state width="911" height="2" key="GridCell.Tab.0.right" timestamp="1579777794465">
+      <screen x="67" y="27" width="957" height="741" />
+    </state>
+    <state width="911" height="2" key="GridCell.Tab.0.right/67.27.957.741@67.27.957.741" timestamp="1579777794465" />
+    <state x="201" y="224" key="com.intellij.ide.util.TipDialog" timestamp="1580363560384">
+      <screen x="67" y="27" width="957" height="741" />
+    </state>
+    <state x="201" y="224" key="com.intellij.ide.util.TipDialog/67.27.957.741@67.27.957.741" timestamp="1580363560384" />
+  </component>
+</project>
